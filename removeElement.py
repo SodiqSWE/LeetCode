@@ -1,3 +1,5 @@
+# LeetCode problem: 27. Remove Element
+
 nums = [3, 2, 2, 3]
 val = 3
 
